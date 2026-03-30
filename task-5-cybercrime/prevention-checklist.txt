@@ -1,0 +1,11 @@
+           Checklist to Stay Safe Online
+
+
+1- PIN Rule: Never enter your UPI PIN to receive money; it is only for sending or checking balances.
+2- Verify Identities: Before making any UPI transaction to a stranger, verify their identity through a secondary channel
+3- MFA: Enable Multi-Factor Authentication on all your banking and social media apps.
+4- Avoid Public Wi-Fi: Do not conduct financial transactions over public or unsecured Wi-Fi networks.
+5- Check Links: Always inspect URLs for misspellings (e.g., amaz0n.in instead of amazon.in) before clicking.
+6- Update Software: Keep your phone’s OS and banking apps updated to the latest security patches.
+7- Privacy: Set your social media profiles to private to prevent identity harvesters from gathering your data
+8- Official Reporting: If defrauded, immediately report it to the National Cyber Crime Portal (cybercrime.gov.in) or call the Helpline 1930
