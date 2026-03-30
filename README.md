@@ -4,7 +4,7 @@ Module Summaries
 Module 1: Digital Awareness
 Created a visual infographic using Canva that covers the definition of digital literacy, safe internet practices, and professional communication to help peers understand the importance of being digitally savvy.
 Module 2: Digital Presence
-Established a professional foundational portfolio across GitHub, LinkedIn, and [Insert 3rd Platform]. This module focused on building a clean, academic identity for future career opportunities.
+Established a professional foundational portfolio across GitHub, LinkedIn, and Stackoverflow. This module focused on building a clean, academic identity for future career opportunities.
 Module 3: Platforms & Collaboration
 Demonstrated technical proficiency by completing a coding challenge on HackerRank. I also developed a cloud-based collaboration tool using Google Forms to quiz peers on their digital knowledge.
 Take the Quiz: https://forms.gle/GtU9vRt7K5Bd7qC29
